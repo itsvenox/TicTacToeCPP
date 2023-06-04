@@ -11,7 +11,7 @@ string playerXName, playerOName;
 // Current player (X or O)
 char currentPlayer = 'X';
 
-// Function to sign in players
+// Function to sign in player
 void signIn(){
     cout << "Enter player X name: ";
     cin >> playerXName;
